@@ -26,3 +26,14 @@ Total | 240 | 960
 ### 2021-02-27
 - zeer goed. Voeg beetje meer zout toe.
 - Was verbrand aan onderkant. Bakplaat moet misschien niet voorverwarmd zijn.
+
+### 2021-03-12
+- 2 nachten en 1 portie 3 nachten
+
+### 2021-03-18
+- poolish 50% bread flour / 50% whole wheat flour
+- 1 batch 30% spelt
+- other batch 20% whole wheat 10% rye
+- 10% extra water
+- was good but not as good as pure breadflour
+- smelled a bit like poolish -> too strong so maybe just all breadflour for poolish

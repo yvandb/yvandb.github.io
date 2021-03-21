@@ -23,6 +23,8 @@
 - [Thumbprint cookies](baking/thumbprint_cookies.md)
 - [Vanilla souffle](baking/vanilla_souffle.md)
 - [Creme Patissiere](baking/creme_patissiere.md)
+- [Pate Sucree](baking/pate_sucree.md)
+- [Lemon Filling](baking/lemon_filling.md)
 
 ### Jekyll Themes
 

@@ -31,3 +31,8 @@ Steps
 6. Rest for 30 minutes
 7. Brush with egg wash
 8. 355°F for 25-30 minutes
+
+## 2021-03-15
+- proof overnight in fridge
+- 35 min
+
