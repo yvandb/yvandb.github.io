@@ -7,12 +7,12 @@ Kalfsbeenderen
 Varkenspoot
 
 
-200 Suiker+water lichtbruin (150 grC)
-Glas Wijnazijn blussen
-5 pcs appelsiensap
-Inkoken van halve liter tot 200g
-1l Jus de veau
-Groene peper
-Boter
-Zesten van allersien
-Grand marnier
+200 | Suiker+water lichtbruin (150 grC)
+Glas | Wijnazijn blussen
+5 pcs | appelsiensap
+ | Inkoken van halve liter tot 200g
+1l |Jus de veau
+ | Groene peper
+ | Boter
+ | Zesten van appelsien
+ | Grand marnier

@@ -1,10 +1,16 @@
 # Trois Etoiles
 
+## Online sites
+- [Scanned historic cookbooks](https://archive.org/details/cbk)
+
 ## Vegetables
 - [Ratatouille](vegetables/ratatouille.md)
 
 ## Fish
 - [Oesters met champagne](fish/oesters_champagne.md)
+
+## Chicken
+- [Chicken wings with air fryer](chicken/chicken_wings_air_fryer.md)
 
 ## Sauce
 - [Bigarate](sauce/bigarate.md)

@@ -22,7 +22,7 @@ butter | 50 room temp
 
 355gF 25-30 minutes
 
-Steps
+## Steps
 1. Tangzhong on medium heat, keep stirring until mixture thickens to a paste. let cool
 2. Mix until everything comes together, no more sticking
 3. Rest for 40 minutes to an hour

@@ -1,6 +1,7 @@
 # Pate Sucree - Shortcrust pastry
 
 Ingredients | g
+--- | ---
 All Purpose flour | 380
 Butter | 220
 Sugar | 100

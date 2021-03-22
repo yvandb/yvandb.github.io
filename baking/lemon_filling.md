@@ -6,7 +6,8 @@ without cream
 g | Ingredient
 --- | ---
 5 | egg yolks
-2g / 1/4 tsp |  kosher salt 50g / 1/4 cup | corn starch more for a firmer filling if desired.
+2g / 1/4 tsp | kosher salt
+50g / 1/4 cup | corn starch more for a firmer filling if desired
 250g / 1 1/4 cups | granulated sugar
 2 tbsp | lemon zest optional
 177ml / 3/4 cup | lemon juice 
@@ -38,3 +39,10 @@ bit | lemon zest
 - temper egg yolks
 - boil everything 2 mins whisking
 - add butter 
+
+### 2021-03-21
+- made last one with 300ml water instead of 400ml
+- one batch meyer lemons, other 50/50 lemon/passion fruit
+- meyer batch was too thick, other was ok
+- could use way more lemon flavor
+

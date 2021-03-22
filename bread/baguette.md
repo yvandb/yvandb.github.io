@@ -3,11 +3,12 @@
 [Weeds & Sardines](https://www.youtube.com/watch?v=eQLTJLF89A4)
 
 ## Poolish
+
 pct    | Poolish | g
 ---  | --- | ---
 100 | flour | 150
 100 | water | 150
-.1  | yeast | a bit
+0.1  | yeast | a bit
 
 Ingredient | %   | g
 ---        | --- | ---

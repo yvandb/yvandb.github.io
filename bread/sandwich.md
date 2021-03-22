@@ -2,8 +2,6 @@
 
 [Van NJAM](https://njam.tv/recepten/extra-zachte-sandwiches)
 
-.       | . 
-------- | --- 
 500 g   | bloem 
 225 g   | melk (beetje meer) 
 18 g    | active dry gist of 35g verse of 14g instant  
