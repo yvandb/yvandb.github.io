@@ -19,6 +19,7 @@ milk | 260
 egg | 50
 Tangzhong | 240
 butter | 50 room temp
+total | 1272
 
 355gF 25-30 minutes
 
