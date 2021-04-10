@@ -18,4 +18,10 @@ Bread Flour | 225
 Butter | 27
 total | 688
 
+-mix without butter
+- mix 10 minutes wit butter
+- 3 hours bulk fermentation
+- preshape boule rest 25 mins
+- shape and proof 2-3 hours
+
 - 190gC 45mins
