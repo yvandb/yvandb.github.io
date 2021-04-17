@@ -1,6 +1,6 @@
 # (Tangzhong method) Rye soft baguette
 
-[yt](https://www.youtube.com/watch?v=-OqbwBb3B1w)
+[youtube in korean](https://www.youtube.com/watch?v=-OqbwBb3B1w)
 
 Tangzhong | g
 --- | ---

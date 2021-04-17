@@ -1,6 +1,6 @@
 # Sandwiches
 
-[Van NJAM](https://njam.tv/recepten/extra-zachte-sandwiches)
+[NJAM](https://njam.tv/recepten/extra-zachte-sandwiches)
 
 500 g   | bloem 
 225 g   | melk (beetje meer) 

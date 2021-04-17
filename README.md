@@ -28,6 +28,7 @@
     - [Milk bread poolish](bread/milkbread_poolish.md)
 - [Rye soft baguette with Tangzhong](bread/rye_soft_baguette_tangzhong.md)
 - [Sandwiches](bread/sandwich.md)
+- [Scali](bread/scali.md)
 
 ## Baking
 - [Banana bread](baking/banana_bread.md)
@@ -37,6 +38,7 @@
 - [Hong Kong waffles egg cake](baking/hong_kong_waffles_egg_cake.md)
 - [Lange Rozijnenkoffiekoeken](baking/lange_rozijnenkoeken.md)
 - [Lemon Filling](baking/lemon_filling.md)
+- [Overnight Yeasted Waffles](baking/overnight_yeasted_waffles.md)
 - [Pate Sucree](baking/pate_sucree.md)
 - [Thumbprint cookies](baking/thumbprint_cookies.md)
 - [Vanilla souffle](baking/vanilla_souffle.md)
