@@ -23,12 +23,12 @@ pc | Dough | g
 - starter overnight
 - mix until smooth
 - 90 min rise
-- shape: brade or rolls + sesame
+- shape: braid or rolls + sesame
 - 90 min proof
 - 425gC 25-35 min
 
 ### 2021-04-16
-- starter was too warm and too much yeast
+- starter was too warm and too much yeast -> was way pst prime next day
 - added some gluten
 - too salty
 - didn't oven spring properly

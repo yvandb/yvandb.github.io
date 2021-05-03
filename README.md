@@ -20,12 +20,14 @@
 ## Bread
 - [Baguettes](bread/baguette.md)
 - [Baguettes 2](bread/baguette2.md)
+- [Bahn Mi](bread/bahn_mi.md)
 - [Cheesecake Factory brown bread](bread/cheesecake_factory_brown_bread.md)
 - [Ciabatta](bread/ciabatta.md)
 - [Focaccia](bread/focaccia.md)
 - Milk bread
     - [Milk bread Tangzhong](bread/milkbread.md)
     - [Milk bread poolish](bread/milkbread_poolish.md)
+- [Pizza Dough with Poolish](bread/pizza_dough_with_poolish.md)
 - [Rye soft baguette with Tangzhong](bread/rye_soft_baguette_tangzhong.md)
 - [Sandwiches](bread/sandwich.md)
 - [Scali](bread/scali.md)
@@ -43,8 +45,3 @@
 - [Thumbprint cookies](baking/thumbprint_cookies.md)
 - [Vanilla souffle](baking/vanilla_souffle.md)
 - [Yogurt cake](baking/yogurt_cake.md)
-
-### Jekyll Themes
-
-Your Pages site will use the layout and styles from the Jekyll theme you have selected in your [repository settings](https://github.com/yvandb/yvandb.github.io/settings). The name of this theme is saved in the Jekyll `_config.yml` configuration file.
-
