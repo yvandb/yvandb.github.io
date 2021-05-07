@@ -24,9 +24,10 @@
 - [Cheesecake Factory brown bread](bread/cheesecake_factory_brown_bread.md)
 - [Ciabatta](bread/ciabatta.md)
 - [Focaccia](bread/focaccia.md)
-- Milk bread
+- Milk bread Shokupan
     - [Milk bread Tangzhong](bread/milkbread.md)
     - [Milk bread poolish](bread/milkbread_poolish.md)
+    - [Milk bread Yudane](bread/milkbread_yudane.md)
 - [Pizza Dough with Poolish](bread/pizza_dough_with_poolish.md)
 - [Rye soft baguette with Tangzhong](bread/rye_soft_baguette_tangzhong.md)
 - [Sandwiches](bread/sandwich.md)
