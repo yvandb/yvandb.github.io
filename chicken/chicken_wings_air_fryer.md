@@ -1,6 +1,6 @@
 # Chicken wings with air fryer
 
-(https://www.youtube.com/watch?v=qKzF0V3ErXA&t=1s)
+[Pro Home Cooks - THE BEST Air Fryer Chicken Wing (Ranking 6 Methods)](https://www.youtube.com/watch?v=qKzF0V3ErXA)
 
 dry mix | q
 --- | ---
