@@ -1,6 +1,6 @@
 # legal sea foods sesame chili vinaigrette
 
-http://www.chefsrecipes.org/show552.htm
+[chefsrecipes](http://www.chefsrecipes.org/show552.htm)
 
 1/2 tablespoons | chopped ginger | 3g 
 4 ounces | rice wine vinegar | 113g

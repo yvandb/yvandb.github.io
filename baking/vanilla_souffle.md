@@ -1,4 +1,4 @@
-# Vanilla souffle
+# Vanilla soufflé
 
 4 | ramekins buttered and sugared
 4 | eggs divided
@@ -8,6 +8,7 @@
 | Vanille
 | salt
 
+## Steps
 - Egg whites stiff peaks + bit by bit 45 gr sugar
 - Beat egg yolks with 45 gr sugar
 - Add flower/cornstarch, vanille, salt

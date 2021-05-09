@@ -1,5 +1,7 @@
 # Thumbprint cookies
 
+- [Joy of Baking](https://www.joyofbaking.com/ThumbprintCookies.html)
+
 g | ingredient
 --- | ---
 1/2 cup (113 grams) | unsalted butter, at room temperature
@@ -11,4 +13,3 @@ g | ingredient
  | Rough sugar to coat
 
 350gC for 12min (maybe 15min)
-https://www.joyofbaking.com/ThumbprintCookies.html

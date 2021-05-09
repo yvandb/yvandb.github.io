@@ -1,7 +1,7 @@
 # Korean Mocha Bread
 
-[no voice](https://www.youtube.com/watch?v=UvcKvMHznpQ)
-[bakery](https://www.youtube.com/watch?v=DTz2LLg4LC8)
+- [no voice](https://www.youtube.com/watch?v=UvcKvMHznpQ)
+- [bakery](https://www.youtube.com/watch?v=DTz2LLg4LC8)
 
 Dough | 2 breads (250ml = 1 cup)
 --- | ---
@@ -27,6 +27,7 @@ baking powder | 2g (1/2tsp)
 instant coffee | 2g (2tsp)
 warm milk | 8g (2tsp)
 
+## Steps
 - mix dough without butter
 - 10min rest
 - add butter

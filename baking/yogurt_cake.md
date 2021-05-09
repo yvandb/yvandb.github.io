@@ -10,6 +10,7 @@ Ingredients | for 12 mini cakes
 1/3 cup | sugar
 3 Tbsp | melted butter
 
+## Steps
 1. Separate egg yolks and egg whites. Preheat oven to 300F.
 2. Mix egg yolk, yogurt with a whisk.
 3. Sift flour into egg yolk mixture.

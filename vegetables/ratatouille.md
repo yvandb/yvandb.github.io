@@ -10,6 +10,7 @@ herbes de provence |
 olive oil |
 salt |
 
+## Steps
 - roast bell peppers until black and remove skin (most annoying part of recipe)
 - cut fennel and pre-roast for 5 mins (with salt and olive oil), let cool 
 - cut rest of vegs in bite size pieces (use a mandoline for the zucchini)

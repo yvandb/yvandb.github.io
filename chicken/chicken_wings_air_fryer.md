@@ -13,6 +13,7 @@ chile powder | 1t
 black pepper | 1t
 salt | 1tb
 
+## Steps
 - coat with dry mix
 - coat with flour
 - wings 390gF for 15 mins

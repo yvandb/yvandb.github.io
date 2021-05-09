@@ -10,6 +10,7 @@ Kristalsuiker | 25g
 Zout | 5g
 Boter kamertemp | 50g
 
+## Stappen
 - 6min kneden zonder boter
 - dan boter bijvoegen en 5min kneden
 - Bol vormen en 30min rusten

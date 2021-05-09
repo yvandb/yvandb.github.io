@@ -17,6 +17,7 @@ Dry yeast | 7g
 Butter | 25g
 Milk | 145ml
 
+## Steps
 - mix to windowpane (20 minutes)
 - rise for 1 hour
 - divide into 150g

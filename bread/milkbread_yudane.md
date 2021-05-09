@@ -18,7 +18,7 @@ extra
 - 1% gluten
 - 1% dough enhancer
 
-
+## Steps
 - Make Yudane a night before. (8-12 hours)
 - Knead all ingredients using a stand mixer, bread machine or by hand (20min)
 - The first rise (45-60min depends on the temperature)

@@ -20,6 +20,7 @@ pc | Dough | g
 . | egg wash | top
 . | sesame seeds | top
 
+## Steps
 - starter overnight
 - mix until smooth
 - 90 min rise

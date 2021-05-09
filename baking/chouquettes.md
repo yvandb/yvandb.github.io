@@ -9,9 +9,10 @@ teaspoon | ts | salt
 1 cup | 150g | flour
 4 | 4 | eggs
 
+## Steps
 - boil all without flour + eggs
 - take off heat
-- miz dough at once
+- mix dough at once
 - dry the dough a bit on heat
 - mix 4 (or more) eggs, one at the time with a wooden spatula. it's fun: at first the egg makes the dough very slippery and when mixing all of a sudden it glues together.
 - put dough in a plastic bag, cut a hole in a corner and make little piles.

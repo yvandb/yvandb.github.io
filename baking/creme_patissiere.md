@@ -11,7 +11,7 @@ Amount | Ingredient
 15 grams | corn flour
 15 grams | plain butter
 
-Instructions:
+## Steps
 - milk+vanilla just boiling
 - blanchir les oeufs: egg yolks + sugar
 - incorporate corn flour
