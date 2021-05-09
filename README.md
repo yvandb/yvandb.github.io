@@ -44,6 +44,7 @@
 - [Lemon Filling](baking/lemon_filling.md)
 - [Overnight Yeasted Waffles](baking/overnight_yeasted_waffles.md)
 - [Pate Sucree](baking/pate_sucree.md)
+- [Red Velvet Martha Steward](baking/red_velvet_chocolate_cake.md)
 - [Thumbprint cookies](baking/thumbprint_cookies.md)
 - [Vanilla souffle](baking/vanilla_souffle.md)
 - [Yogurt cake](baking/yogurt_cake.md)
