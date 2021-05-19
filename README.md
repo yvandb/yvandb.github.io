@@ -17,6 +17,9 @@
 - [Bigarate](sauce/bigarate.md)
 - [legal sea foods sesame chili vinaigrette](sauce/sesame_chili.md)
 
+## Dish
+- [Scotch Egg](dish/scotch_egg.md)
+
 ## Bread
 - [Baguettes](bread/baguette.md)
 - [Baguettes 2](bread/baguette2.md)
@@ -39,12 +42,12 @@
 - [Chouquettes](baking/chouquettes.md)
 - [Creme Patissiere](baking/creme_patissiere.md)
 - [Gibassier](baking/gibassier.md)
-- [Hong Kong waffles egg cake](baking/hong_kong_waffles_egg_cake.md)
 - [Lange Rozijnenkoffiekoeken](baking/lange_rozijnenkoeken.md)
 - [Lemon Filling](baking/lemon_filling.md)
-- [Overnight Yeasted Waffles](baking/overnight_yeasted_waffles.md)
 - [Pate Sucree](baking/pate_sucree.md)
 - [Red Velvet Martha Steward](baking/red_velvet_chocolate_cake.md)
 - [Thumbprint cookies](baking/thumbprint_cookies.md)
 - [Vanilla souffle](baking/vanilla_souffle.md)
+- [Waffles, Hong Kong egg cake](baking/hong_kong_waffles_egg_cake.md)
+- [Waffles, Overnight Yeasted](baking/overnight_yeasted_waffles.md)
 - [Yogurt cake](baking/yogurt_cake.md)

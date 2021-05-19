@@ -1,6 +1,6 @@
 # Overnight Yeasted Waffles
 
-(https://www.thekitchn.com/recipe-overnight-yeasted-waffles-recipes-from-the-kitchn-199052)
+[Thekitchn](https://www.thekitchn.com/recipe-overnight-yeasted-waffles-recipes-from-the-kitchn-199052)
 
 g | Night Before
 1/2 cup | warm water
