@@ -8,6 +8,7 @@
 - [Ratatouille](vegetables/ratatouille.md)
 
 ## Fish
+- [Kreeft "Henry Duvernois"](fish/kreeft_henry_duvernois.md)
 - [Oesters met champagne](fish/oesters_champagne.md)
 
 ## Chicken

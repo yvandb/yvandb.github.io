@@ -11,7 +11,7 @@
 ## Steps
 - Egg whites stiff peaks + bit by bit 45 gr sugar
 - Beat egg yolks with 45 gr sugar
-- Add flower/cornstarch, vanille, salt
+- Add flour/cornstarch, vanille, salt
 - Add heated milk to yolks bit by bit
 - Heat mixture until stiff
 - Let cool down and mix with egg whites

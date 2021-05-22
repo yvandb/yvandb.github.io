@@ -1,8 +1,9 @@
 # Ciabatta
 
--[Mukgling](https://www.youtube.com/watch?v=vtqRPp123CE)
+- [Mukgling](https://www.youtube.com/watch?v=vtqRPp123CE)
 - [King Arthur](https://www.kingarthurbaking.com/recipes/rustic-italian-ciabatta-recipe)
 - [Huge Biga](https://www.mulinopadano.it/en/blog/recipe-bread-ciabatta-biga-method/)
+- [100% Biga](https://www.youtube.com/watch?v=MDt6eUAmchc)
 
 ### Huge Biga
 
@@ -10,14 +11,14 @@ Biga | g
 --- | ---
 flour | 1000
 water | 450
-yeast | 10
+yeast | 4
 
 Dough | g
 --- | ---
 Biga | all
 flour | 100
 water | 320
-yeast | 1
+yeast | .4
 salt | 18 - 20
 malt | 5.5 -7.7
 
@@ -28,4 +29,11 @@ malt | 5.5 -7.7
 - rest 60 min
 - divide
 - rest upside down 30-40 min
-- 230°-240°C (460gF) for 40-45 minutes. with steam in beginning and at end with open door
+- 230°-240°C (460gF) for 22-25 minutes. with steam in beginning and at end with open door
+
+### 2021-05-22
+- biga is very dry at 45% and hard to work with
+- extra flour or water didn't mix with machine, needed manual mixing
+- still lumps that needed a lot of work to get rid of
+- taste and structure was good
+
