@@ -1,6 +1,6 @@
 # Milk bread with Tangzhong
 
-[yt](https://www.youtube.com/watch?v=tc3coiL36Cg&t=272s)
+[How to make Tangzhong milk bread](https://www.youtube.com/watch?v=tc3coiL36Cg)
 
 Tangzhong | g
 --- | ---
