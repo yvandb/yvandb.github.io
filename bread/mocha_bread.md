@@ -23,7 +23,7 @@ Dough | double
 --- | --- | ---
 tangzhong flour | 40
 tangzhong milk | 200
-bread flour | 40 
+bread flour | 400
 sugar | 60
 salt | 7
 instant dry yeast | 4
@@ -32,6 +32,7 @@ instant coffee | 8g
 warm milk | 21
 egg room temperature | 1
 butter room temperature | 30
+total | 920 -> 230
 
 Mocha biscuit | outer layer | double
 --- | --- | ---
@@ -62,3 +63,9 @@ warm milk | 8g (2tsp) | 16
 - let loafs proof with biscuit layer
 
 - bake 340gF (170gC) for 25 min
+
+## 2021-05-30
+- stuck to the baguette pan
+- coffee: french press + powder -> still not very strong
+- could use some whole wheat
+- top was not crackling enough, more sticky
