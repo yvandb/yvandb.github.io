@@ -1,8 +1,8 @@
 # Bahn Mi
 
-- (https://www.vietworldkitchen.com/blog/2007/05/vietnamese_bagu.html)
-- (https://www.siftandsimmer.com/homemade-banh-mi-baguette/)
-- [https://www.youtube.com/watch?v=3SqwDABjDaY](Youtube Vietnamese with poolish)
+- [vietworldkitchen](https://www.vietworldkitchen.com/blog/2007/05/vietnamese_bagu.html)
+- [siftandsimmer](https://www.siftandsimmer.com/homemade-banh-mi-baguette/)
+- [Youtube Vietnamese with poolish](https://www.youtube.com/watch?v=3SqwDABjDaY)
 
 Short Poolish | g
 --- | ---

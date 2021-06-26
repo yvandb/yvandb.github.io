@@ -3,18 +3,21 @@
 [Sous vide everything]()
 [Chef John](https://www.youtube.com/watch?v=qqKNH2HRbD4)
 
-Chef John:
+## Chef John:
 
-Ingredient |
+
+Amount | Ingredient
 --- | ---
 3 (8 ounce) | beef short ribs
 1 (2 1/2 pound) | beef chuck
 4 tsp | kosher salt
-1 tsp freshly ground black pepper
+1 tsp | freshly ground black pepper
 2 tsp | dried Mexican oregano
 1 tsp | ground cumin
 1/2 tsp | ground cinnamon
 1/4 tsp | ground cloves
+
+
 7 | peppers dried guajillo chillies
 2 tbsp | olive oil
 1 | large onion, roughly chopped
@@ -29,6 +32,7 @@ Ingredient |
 2 tbsp | finely diced white onion
 1 tbsp | chopped fresh cilantro
 1 | lime, sliced
+
 
 ## Steps
 - marinate 3 lb of meat with spices
