@@ -1,7 +1,7 @@
 # Birria
 
-[Sous vide everything]()
-[Chef John](https://www.youtube.com/watch?v=qqKNH2HRbD4)
+- [Sous vide everything](https://www.youtube.com/watch?v=db8KvJjyRuo)
+- [Chef John](https://www.youtube.com/watch?v=qqKNH2HRbD4)
 
 ## Chef John:
 

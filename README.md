@@ -13,7 +13,7 @@
 
 ## Meat
 - [Birria](meat/birria.md)
-- [Chicken wings with air fryer](meat /chicken_wings_air_fryer.md)
+- [Chicken wings with air fryer](meat/chicken_wings_air_fryer.md)
 
 ## Sauce
 - [Bigarate](sauce/bigarate.md)
