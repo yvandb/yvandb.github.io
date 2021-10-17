@@ -1,10 +1,10 @@
 # Bigarate
-https://www.youtube.com/watch?v=fPcM7-YY_Hw
+[Pete Pan's Duck a l'orange](https://www.youtube.com/watch?v=fPcM7-YY_Hw)
 
-papa:
-Eerst Jus de veau maken
-Kalfsbeenderen
-Varkenspoot
+## papa:
+- Eerst Jus de veau maken
+- Kalfsbeenderen
+- Varkenspoot
 
 
 200 | Suiker+water lichtbruin (150 grC)

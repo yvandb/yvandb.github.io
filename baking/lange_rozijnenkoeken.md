@@ -1,6 +1,6 @@
 # Lange Rozijnenkoffiekoeken
 
-https://www.youtube.com/watch?v=hWX3lHoi2eA&t=3s
+[Stefan Elias](https://www.youtube.com/watch?v=hWX3lHoi2eA&t=3s)
 
 Bloem | 270g
 Koude volle melk | 100g

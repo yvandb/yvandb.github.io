@@ -1,7 +1,7 @@
 # Lemon Filling
 without cream
 
-(https://preppykitchen.com/lemon-meringue-pie/)
+[Pretty Kitchen](https://preppykitchen.com/lemon-meringue-pie/)
 
 g | Ingredient
 --- | ---
@@ -14,7 +14,7 @@ g | Ingredient
 296ml / 1 1/4 cup | water
 57g / 4 tbsp | butter
 
-alternate (https://www.youtube.com/watch?v=yLVzIcCSKPg)
+alternate [YouTube Anna Olsen](https://www.youtube.com/watch?v=yLVzIcCSKPg)
 
 200 g | sugar
 30 g | cornstarch
@@ -23,7 +23,7 @@ alternate (https://www.youtube.com/watch?v=yLVzIcCSKPg)
 125 ml | fresh lemon juice
 30 g | unsalted butter
 
-alternate (https://www.youtube.com/watch?v=-FF_L54rvkk)
+alternate [Youtube Jamie Oliver](https://www.youtube.com/watch?v=-FF_L54rvkk)
 
 400ml | water
 bit | lemon zest

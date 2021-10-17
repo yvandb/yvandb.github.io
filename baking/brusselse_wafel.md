@@ -2,12 +2,12 @@
 
 [Aveve](https://avevewinkels.be/thuisbakken/Recepten/brusselsewafels)
 
-
 5 | eieren gescheiden
 200g | gesmolten boter
 500g | aveve mix
 750g | koud water
 
+---
 
 [Njam Alpro](https://www.youtube.com/watch?v=fkbGduEokvQ)
 
@@ -16,4 +16,4 @@
 - | gist
 4 | eieren gescheiden
 600g | bloem
-200g | gesmolen boter
+200g | gesmolten boter

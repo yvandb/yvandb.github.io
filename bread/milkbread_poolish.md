@@ -1,6 +1,6 @@
 # Milkbread with Poolish
 
-(https://www.youtube.com/watch?v=J4lyiJjeeH4)
+[With Poolish](https://www.youtube.com/watch?v=J4lyiJjeeH4)
 
 Poolish |
  --- | ---
