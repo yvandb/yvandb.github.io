@@ -2,6 +2,7 @@
 
 ## Online sites
 - [Scanned historic cookbooks](https://archive.org/details/cbk)
+- [NYC historic menus](http://menus.nypl.org/)
 
 ## Vegetables
 - [Pana cotta of tofu with tomato confit](vegetables/pana_cotta_of_tofu_with_tomato_confit.md)
@@ -43,11 +44,13 @@
 
 ## Baking
 - [Banana bread](baking/banana_bread.md)
+- [Brusselse Wafel](baking/brusselse_wafel.md)
 - [Chouquettes](baking/chouquettes.md)
 - [Creme Patissiere](baking/creme_patissiere.md)
 - [Gibassier](baking/gibassier.md)
 - [Lange Rozijnenkoffiekoeken](baking/lange_rozijnenkoeken.md)
 - [Lemon Filling](baking/lemon_filling.md)
+- [Luikse Wafel](baking/luikse_wafel.md)
 - [Pate Sucree](baking/pate_sucree.md)
 - [Red Velvet Martha Steward](baking/red_velvet_chocolate_cake.md)
 - [Speculaas](baking/speculaas.md)

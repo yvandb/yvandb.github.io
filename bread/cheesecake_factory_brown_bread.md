@@ -25,7 +25,16 @@ OPTIONAL: (but not the same without)
 1\4 cup | cornmeal for the base of the dough once shaped before baking
 1\4 cup | oats for topping 
 
-350°F or 180°C for about 30 to 35 minutes
+## Steps
+- kneed
+- rest 1 or 2 hours
+- shape and cornflour+oatmeal
+- proof 1 hour
+- 350°F or 180°C for about 30 to 35 minutes
 
 ### 2021-04-10
 pretty much spot on
+
+## 2021-09-18
+- way too wet, added flour
+- a bit off. too much molasses

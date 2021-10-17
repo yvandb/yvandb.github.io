@@ -20,9 +20,19 @@ Diastatic malt powder | 2.5 | 10
 Salt | 2.75 | 11
 Total | 240 | 960
 
+- mix until clears the bowl
+- 30min rest
+- stretch&fold
+- 120min rest
+- divide 225g & preshape
+- 20min rest
+- shape
+- proof 45min
 - Oven 485gF (prewarm higher)
 - 10min with steam, ice cubes
 - 8-10min without
+
+
 
 ### 2021-02-27
 - zeer goed. Voeg beetje meer zout toe.
