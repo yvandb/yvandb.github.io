@@ -36,6 +36,7 @@
     * [Milk bread poolish](bread/milkbread_poolish.md)
     * [Milk bread Yudane](bread/milkbread_yudane.md)
 - [Mocha Bread](bread/mocha_bread.md)
+- [Multi Grain](bread/multigrain.md)
 - [Pistolets](bread/pistolets.md)
 - [Pizza Dough with Poolish](bread/pizza_dough_with_poolish.md)
 - [Rye soft baguette with Tangzhong](bread/rye_soft_baguette_tangzhong.md)
