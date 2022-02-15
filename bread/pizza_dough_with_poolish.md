@@ -37,9 +37,9 @@ Ingredient | %   | g
 ---        | --- | ---
 Bread flour | 100 | 700
 Warm water  | 70  | 400
-Poolish     | 30  | 300
+Poolish     | 60  | 600
 Yeast       | .5 (.8) | 4
 Salt | 2.5 | 25
 olive oil | 1 | 10
-Total | - | 1400
+Total | - | 1700
 

@@ -3,7 +3,7 @@
 - [48 Hours Poolish Focaccia](https://www.youtube.com/watch?v=El6lqyDhXWs)
 - [THE SUPER FOCACCIA](https://www.bakewithjack.co.uk/blog-1/2017/2/9/the-super-focaccia)
 
-##48 hours
+## 48 hours
 
 Poolish |
 --- | ---
@@ -27,4 +27,6 @@ Dough |
 
 ## 2022-02-12
 - again sticking to the pan
+- middle was well risen, sides not so much -> better dimples
+
 
