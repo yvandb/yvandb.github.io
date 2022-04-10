@@ -3,6 +3,7 @@
 ## Alain Ducasse
 [recipe](https://www.foodandwine.com/recipes/alain-ducasses-gougeres)
 
+q | ingredient
 === | ===
 1/2 cup | water
 1/2 cup | milk
@@ -17,6 +18,7 @@ Large pinch  | of coarse salt
 ## Serious Eats
 [recipe](https://www.seriouseats.com/gougeres)
 
+q | ingredient
 === | ===
 1 cup (235g) | water or milk (see note)
 6 tablespoons (85g) | unsalted butter, cut into roughly 1/2-inch cubes
@@ -32,6 +34,7 @@ Egg wash | made from 1 large egg whisked with 1 tablespoon (15ml) water; or nons
 ## Bruno Albouze
 [recipe](https://brunoalbouze.com/recipe/gougere/)
 
+q | ingredient
 === | ===
 250 g | Water
 70 g | White wine
