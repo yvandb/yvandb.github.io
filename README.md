@@ -48,6 +48,7 @@
 - [Chouquettes](baking/chouquettes.md)
 - [Creme Patissiere](baking/creme_patissiere.md)
 - [Gibassier](baking/gibassier.md)
+- [Gougères](baking/gougere.md)
 - [Lange Rozijnenkoffiekoeken](baking/lange_rozijnenkoeken.md)
 - [Lemon Filling](baking/lemon_filling.md)
 - [Pate Sucree](baking/pate_sucree.md)
