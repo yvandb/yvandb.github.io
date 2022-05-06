@@ -25,14 +25,13 @@
 
 ## Bread
 - [Baguettes](bread/baguette.md)
-- [Baguettes 2](bread/baguette2.md)
+    - [Baguettes 2](bread/baguette2.md)
 - [Bahn Mi](bread/bahn_mi.md)
 - [Cheesecake Factory brown bread](bread/cheesecake_factory_brown_bread.md)
 - [Ciabatta](bread/ciabatta.md)
 - [Focaccia](bread/focaccia.md)
 - [Notenbrood](bread/notenbrood.md)
-- Milk bread Shokupan
-    * [Milk bread Tangzhong](bread/milkbread_tangzhong.md)
+- [Milk bread Shokupan Tangzhong](bread/milkbread_tangzhong.md)
     * [Milk bread poolish](bread/milkbread_poolish.md)
     * [Milk bread Yudane](bread/milkbread_yudane.md)
 - [Mocha Bread](bread/mocha_bread.md)
@@ -46,16 +45,17 @@
 ## Baking
 - [Banana bread](baking/banana_bread.md)
 - [Chouquettes](baking/chouquettes.md)
-- [Creme Patissiere](baking/creme_patissiere.md)
+- [Crème Patissière](baking/creme_patissiere.md)
 - [Gibassier](baking/gibassier.md)
 - [Gougères](baking/gougere.md)
 - [Lange Rozijnenkoffiekoeken](baking/lange_rozijnenkoeken.md)
 - [Lemon Filling](baking/lemon_filling.md)
-- [Pate Sucree](baking/pate_sucree.md)
+- [Pâte Sablée](baking/pate_sablee.md)
+- [Pâte Sucrée](baking/pate_sucree.md)
 - [Red Velvet Martha Steward](baking/red_velvet_chocolate_cake.md)
 - [Spekulaas](baking/spekulaas.md)
 - [Thumbprint cookies](baking/thumbprint_cookies.md)
-- [Vanilla souffle](baking/vanilla_souffle.md)
+- [Vanilla soufflé](baking/vanilla_souffle.md)
 - Wafels
     * [Luikse Wafel](baking/luikse_wafel.md)
     * [Brusselse Wafel](baking/brusselse_wafel.md)

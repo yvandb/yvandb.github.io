@@ -1,4 +1,4 @@
-# Pate Sucree - Shortcrust pastry
+# Pâte Sucrée - Shortcrust pastry
 
 Ingredients | g
 --- | ---
