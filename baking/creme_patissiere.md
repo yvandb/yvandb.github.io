@@ -1,6 +1,6 @@
 # Banketbakkersroom
 
-[Frech cooking academy Stephane text](https://www.thefrenchcookingacademy.com/christmas-frangipane-cake/)
+[French cooking academy Stephane text](https://www.thefrenchcookingacademy.com/christmas-frangipane-cake/)
 
 Amount | Ingredient
 --- | ---
@@ -28,6 +28,28 @@ same techniques but richer | Ingredient
 120g | caster sugar
 50g | cornstarch 
 50ml | rum 
+
+[Pépites de Chloé](https://www.youtube.com/watch?v=06q6XBnIbbA)
+
+Amount | Ingredient
+--- | ---
+250 ml | whole milk
+2 30g | egg yolks
+65 grams | granulated sugar
+20 grams | corn flour
+some | good quality vanilla essence
+10 grams | plain butter
+
+[Pépites de Chloé](https://www.youtube.com/watch?v=06q6XBnIbbA)
+
+Amount | Ingredient
+--- | ---
+250 ml | whole milk
+2 30g | egg yolks
+65 grams | granulated sugar (use bit less)
+20 grams | corn flour 
+some | good quality vanilla essence
+10 grams | plain butter
 
 ## 2021-03-06
 - Dit is zeer stijf

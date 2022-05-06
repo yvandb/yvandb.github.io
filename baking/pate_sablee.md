@@ -9,6 +9,7 @@ Egg | 1
 Vanille | some
 Salt | pinch
 Lemon zest | 1 optional instead of vanille
+Almond powder | instead of some of the flour
 
 ## Steps
 - mix flour and butter
