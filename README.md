@@ -15,6 +15,8 @@
 ## Meat
 - [Birria](meat/birria.md)
 - [Chicken wings with air fryer](meat/chicken_wings_air_fryer.md)
+- [Chinese Cumin Mix](meat/chinese_cumin_mix.md)
+- [Pork Chili Verde with pressure cooker](meat/pork_chili_verde.md)
 
 ## Sauce
 - [Bigarate](sauce/bigarate.md)
