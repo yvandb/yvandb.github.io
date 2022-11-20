@@ -45,6 +45,7 @@
 - [Scali](bread/scali.md)
 
 ## Baking
+- [Apple cake Invisible](baking/apple_cake_invisible.md)
 - [Banana bread](baking/banana_bread.md)
 - [Chouquettes](baking/chouquettes.md)
 - [Crème Patissière](baking/creme_patissiere.md)
@@ -52,6 +53,7 @@
 - [Gougères](baking/gougere.md)
 - [Lange Rozijnenkoffiekoeken](baking/lange_rozijnenkoeken.md)
 - [Lemon Filling](baking/lemon_filling.md)
+- [Méringue Disfrutar](baking/meringue_disfrutar.md)
 - [Pâte Sablée](baking/pate_sablee.md)
 - [Pâte Sucrée](baking/pate_sucree.md)
 - [Red Velvet Martha Steward](baking/red_velvet_chocolate_cake.md)
