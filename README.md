@@ -16,6 +16,7 @@
 - [Birria](meat/birria.md)
 - [Chicken wings with air fryer](meat/chicken_wings_air_fryer.md)
 - [Chinese Cumin Mix](meat/chinese_cumin_mix.md)
+- [Gigot d'Agneau](meat/gigot_dagneau.md)
 - [Pork Chili Verde with pressure cooker](meat/pork_chili_verde.md)
 
 ## Sauce
@@ -24,6 +25,7 @@
 
 ## Dish
 - [Scotch Egg](dish/scotch_egg.md)
+- [Tarte Tatin de Tomates](dish/tarte_tatin_de_tomates.md)
 
 ## Bread
 - [Baguettes](bread/baguette.md)
@@ -58,6 +60,7 @@
 - [Pâte Sucrée](baking/pate_sucree.md)
 - [Red Velvet Martha Steward](baking/red_velvet_chocolate_cake.md)
 - [Spekulaas](baking/spekulaas.md)
+- [Tarte Tatin](baking/tarte_tatin.md)
 - [Thumbprint cookies](baking/thumbprint_cookies.md)
 - [Vanilla soufflé](baking/vanilla_souffle.md)
 - Wafels

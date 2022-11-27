@@ -1,6 +1,6 @@
 * Gâteau invisible aux pommes
 
-[Les Pépites de Cloé](youtube.com/watch?v=4uplaAaAZE4)
+[Les Pépites de Cloé](https://youtube.com/watch?v=4uplaAaAZE4)
 [Vegan version](https://www.youtube.com/watch?v=_ohpmtZknuw)
 
 
@@ -26,3 +26,8 @@ peu | De la vanille en poudre ou gousse ( vous pouvez aussi ajouter de la cannel
 - very good
 - like gratin dhauphinois
 - make sure to put parchment paper in because it sticks to mold
+
+## 2022-11-24
+ - way too runny
+ - needs less milk/more flour
+ 
