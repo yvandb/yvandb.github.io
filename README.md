@@ -24,6 +24,7 @@
 - [legal sea foods sesame chili vinaigrette](sauce/sesame_chili.md)
 
 ## Dish
+- [Scallion Pancake](dish/scallion_pancake.md)
 - [Scotch Egg](dish/scotch_egg.md)
 - [Tarte Tatin de Tomates](dish/tarte_tatin_de_tomates.md)
 
