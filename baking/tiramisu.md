@@ -22,3 +22,8 @@ lot | lady fingers
 - peaks egg white
 - min 4 hour set in fridge
 
+## 2022-12-31
+- too lemony
+- added cream but it's not improvement
+- was not very coffee tasting
+- put more amaretto in filling

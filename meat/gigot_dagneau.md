@@ -25,3 +25,6 @@ q | ingr
 
 ## 2022-11-26
 - 4.5 lbs 135 gF for 5 hours -> perfect
+
+## 2022-12-31
+- 6 lbs 135.5 gF for 5 hours -> great but a bit too dry and too well done
