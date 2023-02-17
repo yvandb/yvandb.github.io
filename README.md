@@ -22,6 +22,7 @@
 ## Sauce
 - [Bigarate](sauce/bigarate.md)
 - [legal sea foods sesame chili vinaigrette](sauce/sesame_chili.md)
+- [Thai vinaigrette](sauce/thai_vinaigrette.md)
 
 ## Dish
 - [Scallion Pancake](dish/scallion_pancake.md)
