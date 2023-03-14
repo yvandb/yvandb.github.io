@@ -47,6 +47,7 @@
 - [Rye soft baguette with Tangzhong](bread/rye_soft_baguette_tangzhong.md)
 - [Sandwiches](bread/sandwich.md)
 - [Scali](bread/scali.md)
+- [Spelt](bread/spelt.md)
 
 ## Baking
 - [Apple cake Invisible](baking/apple_cake_invisible.md)
