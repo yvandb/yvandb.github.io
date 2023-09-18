@@ -7,7 +7,7 @@
 - Varkenspoot
 
 
-200 | Suiker+water lichtbruin (150 grC)
+200 | Suiker+water lichtbruin (150 grC) of honing
 Glas | Wijnazijn blussen
 5 pcs | appelsiensap
  | Inkoken van halve liter tot 200g

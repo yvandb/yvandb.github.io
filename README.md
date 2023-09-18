@@ -17,6 +17,8 @@
 - [Chicken wings with air fryer](meat/chicken_wings_air_fryer.md)
 - [Chinese Cumin Mix](meat/chinese_cumin_mix.md)
 - [Gigot d'Agneau](meat/gigot_dagneau.md)
+- [Porchetta](meat/porchetta.md)
+- [Pork Belly Air Fryer](meat/pork_belly_air_fryer.md)
 - [Pork Chili Verde with pressure cooker](meat/pork_chili_verde.md)
 
 ## Sauce
@@ -25,6 +27,7 @@
 - [Thai vinaigrette](sauce/thai_vinaigrette.md)
 
 ## Dish
+- [Chou Farci](dish/chou_farci.md)
 - [Scallion Pancake](dish/scallion_pancake.md)
 - [Scotch Egg](dish/scotch_egg.md)
 - [Tarte Tatin de Tomates](dish/tarte_tatin_de_tomates.md)
