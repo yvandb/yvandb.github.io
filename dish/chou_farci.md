@@ -22,7 +22,7 @@ in salad bowl
 - put in casserole
 - surrounded with leftover leaves
 - and chicken stock
-- bay leaves + tyme
+- bay leaves + thyme
 
 cook
 - oven 350gF
