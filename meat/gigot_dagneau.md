@@ -28,3 +28,10 @@ q | ingr
 
 ## 2022-12-31
 - 6 lbs 135.5 gF for 5 hours -> great but a bit too dry and too well done
+
+## 2023-11-16
+- 6 lbs 135.0 gF for 5:15 hours
+
+## 2022-12-31
+- 6 lbs 135.5 gF for 5 hours -> great but a bit too dry and too well done
+- used 1% salt and bit of msg, was underseasoned 

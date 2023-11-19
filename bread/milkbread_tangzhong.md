@@ -37,3 +37,9 @@ total | 1272
 - proof overnight in fridge
 - 35 min
 
+## 2023-10-04
+- with some glutinous rice flour, dough enhancer
+- 33 min a bit too long
+- bottom with sugar
+- awesome
+

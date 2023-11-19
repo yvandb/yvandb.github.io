@@ -56,6 +56,7 @@
 ## Baking
 - [Apple cake Invisible](baking/apple_cake_invisible.md)
 - [Banana bread](baking/banana_bread.md)
+- [Cheese Soufflé](baking/cheese_souffle.md)
 - [Chouquettes](baking/chouquettes.md)
 - [Crème Patissière](baking/creme_patissiere.md)
 - [Gibassier](baking/gibassier.md)
