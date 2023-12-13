@@ -12,7 +12,7 @@ Well-done |	155°F (68°C) | and up 	2 to 6 hours
 
 
 ## Mint chimichurri
-
+```
 q | ingr
 --- | ---
 1 ounce (30g) | picked fresh mint leaves (about 1 cup), finely chopped
@@ -22,6 +22,7 @@ q | ingr
 1 red jalapeño or Fresno chili | finely minced
 1 tablespoon (15ml) | red wine vinegar
 3 tablespoons (45ml) | extra-virgin olive oil
+```
 
 ## 2022-11-26
 - 4.5 lbs 135 gF for 5 hours -> perfect
