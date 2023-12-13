@@ -1,6 +1,5 @@
 # Lady Fingers
 
-
 [French Cooking Academy](https://www.youtube.com/watch?v=H_qUF4YLqbA)
 
 q | Ingr

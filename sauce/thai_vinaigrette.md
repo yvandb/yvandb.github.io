@@ -1,7 +1,7 @@
 # Thai Vinaigrette
 
-[Cook Culture](https://www.youtube.com/watch?v=aIt5rM6Dtpg)
-[Pailin's kitchen](https://www.youtube.com/watch?v=H-B3t8CwN4A)
+- [Cook Culture](https://www.youtube.com/watch?v=aIt5rM6Dtpg)
+- [Pailin's kitchen](https://www.youtube.com/watch?v=H-B3t8CwN4A)
 
 
 g | Ingr
@@ -16,6 +16,7 @@ some | mint
 some | cilantro
 .5 | lime
 lot | fish sauce
+
 
 Mortar & pestle
 

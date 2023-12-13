@@ -1,7 +1,7 @@
 # Scallion Pancake
 
-[Souped up Recipes](https://www.youtube.com/watch?v=0EgspSFnORo)
-[My name is Andong](https://www.youtube.com/watch?v=q31XGM75s_0)
+- [Souped up Recipes](https://www.youtube.com/watch?v=0EgspSFnORo)
+- [My name is Andong](https://www.youtube.com/watch?v=q31XGM75s_0)
 
 ## Dough
 

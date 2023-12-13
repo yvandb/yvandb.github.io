@@ -1,14 +1,16 @@
 # Ratatouille
 
-bell peppers |
-eggplant |
-fennel |
-zucchini|
-tomato paste (optional) |
-grated parmesan (optional) |
-herbes de provence |
-olive oil |
-salt |
+```
+bell peppers
+eggplant
+fennel
+zucchini
+tomato paste (optional)
+grated parmesan (optional)
+herbes de provence
+olive oil
+salt
+```
 
 ## Steps
 - roast bell peppers until black and remove skin (most annoying part of recipe)
