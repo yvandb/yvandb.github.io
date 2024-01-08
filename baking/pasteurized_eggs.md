@@ -1,7 +1,7 @@
 # Pasteurized Eggs
 
-[Anova](https://recipes.anovaculinary.com/recipe/pasteurized-eggs-68)
-[USDA EGG PASTEURIZATION MANUAL](https://naldc.nal.usda.gov/download/CAIN709025458/PDF)
+- [Anova](https://recipes.anovaculinary.com/recipe/pasteurized-eggs-68)
+- [USDA EGG PASTEURIZATION MANUAL](https://naldc.nal.usda.gov/download/CAIN709025458/PDF)
 
 sous vide 135 gF for 75 mins
 

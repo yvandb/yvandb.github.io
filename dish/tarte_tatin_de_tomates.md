@@ -5,4 +5,4 @@
 * add balsamic vinegar
 * add herb mix: sage/mint/thyme/parsley/cilantro/tarragon/basil/...
 * put sheet of pastry dough on it
-* oven 360gf for 30 minutes or so
+* oven 360gF for 30 minutes or so

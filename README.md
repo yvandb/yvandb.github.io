@@ -10,6 +10,7 @@
 - [Ratatouille](vegetables/ratatouille.md)
 
 ## Fish
+- [Korean Ansjovis](fish/korean_ansjovis.md.md)
 - [Kreeft "Henry Duvernois"](fish/kreeft_henry_duvernois.md)
 - [Oesters met champagne](fish/oesters_champagne.md)
 
@@ -30,6 +31,7 @@
 
 ## Dish
 - [Chou Farci](dish/chou_farci.md)
+- [Dumpling Pork Daikon](dish/dumpling_pork_daikon.md)
 - [Scallion Pancake](dish/scallion_pancake.md)
 - [Scotch Egg](dish/scotch_egg.md)
 - [Tarte Tatin de Tomates](dish/tarte_tatin_de_tomates.md)
@@ -57,6 +59,7 @@
 ## Baking
 - [Apple cake Invisible](baking/apple_cake_invisible.md)
 - [Banana bread](baking/banana_bread.md)
+- [Bûche de Noël](baking/buche_de_noel.md)
 - [Cheese Soufflé](baking/cheese_souffle.md)
 - [Chouquettes](baking/chouquettes.md)
 - [Crème Patissière](baking/creme_patissiere.md)
@@ -70,6 +73,7 @@
 - [Pasteurized Eggs](baking/pasteurized_eggs.md)
 - [Pâte Sablée](baking/pate_sablee.md)
 - [Pâte Sucrée](baking/pate_sucree.md)
+- [Sandies](baking/sandies.md)
 - [Red Velvet Martha Steward](baking/red_velvet_chocolate_cake.md)
 - [Spekulaas](baking/spekulaas.md)
 - [Tarte Tatin](baking/tarte_tatin.md)

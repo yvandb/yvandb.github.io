@@ -1,6 +1,6 @@
 # Chouquettes
 
-[blog](http://www.lacuisinedemonica.com/desserts/chouquettes/)
+[La cuisine de Monica](http://www.lacuisinedemonica.com/desserts/chouquettes/)
 
 1 cup | 250ml | water, milk or mix
 1/2 stick | 60g | butter

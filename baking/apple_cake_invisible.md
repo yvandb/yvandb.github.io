@@ -1,7 +1,7 @@
-* Gâteau invisible aux pommes
+# Gâteau invisible aux pommes
 
-[Les Pépites de Cloé](https://youtube.com/watch?v=4uplaAaAZE4)
-[Vegan version](https://www.youtube.com/watch?v=_ohpmtZknuw)
+- [Les Pépites de Cloé](https://youtube.com/watch?v=4uplaAaAZE4)
+- [Vegan version](https://www.youtube.com/watch?v=_ohpmtZknuw)
 
 
 Q | Ingrédients
