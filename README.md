@@ -10,7 +10,7 @@
 - [Ratatouille](vegetables/ratatouille.md)
 
 ## Fish
-- [Korean Ansjovis](fish/korean_ansjovis.md.md)
+- [Korean Ansjovis](fish/korean_ansjovis.md)
 - [Kreeft "Henry Duvernois"](fish/kreeft_henry_duvernois.md)
 - [Oesters met champagne](fish/oesters_champagne.md)
 
@@ -38,7 +38,6 @@
 
 ## Bread
 - [Baguettes](bread/baguette.md)
-    - [Baguettes 2](bread/baguette2.md)
 - [Bahn Mi](bread/bahn_mi.md)
 - [Cheesecake Factory brown bread](bread/cheesecake_factory_brown_bread.md)
 - [Ciabatta](bread/ciabatta.md)
