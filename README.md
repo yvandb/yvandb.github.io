@@ -87,3 +87,6 @@
     * [Waffles, Hong Kong egg cake](baking/hong_kong_waffles_egg_cake.md)
     * [Waffles, Overnight Yeasted](baking/overnight_yeasted_waffles.md)
 - [Yogurt cake](baking/yogurt_cake.md)
+
+## Restaurants
+- [Sarma](resto/sarma.md)
