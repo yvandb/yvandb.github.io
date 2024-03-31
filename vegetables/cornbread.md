@@ -1,6 +1,7 @@
 # Cornbread
 
-[] (https://www.youtube.com/watch?v=kHszPufdHbQ)
+- [Eats well with others](https://joanne-eatswellwithothers.com/2020/04/cornbread-cheddar-feta-jalapeno.html)
+- [All Recipes] (https://www.youtube.com/watch?v=kHszPufdHbQ)
 
 Q | Ingr
 === | ===

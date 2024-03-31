@@ -28,6 +28,7 @@
 
 ## Sauce
 - [Bigarate](sauce/bigarate.md)
+- [Sauce Entrecôte](sauce/sauce_entrecote.md)
 - [legal sea foods sesame chili vinaigrette](sauce/sesame_chili.md)
 - [Thai vinaigrette](sauce/thai_vinaigrette.md)
 
