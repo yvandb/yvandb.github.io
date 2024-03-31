@@ -2,14 +2,14 @@
 
 [Chinese cooking demystified](https://www.youtube.com/watch?v=cq5HPbUYuZ4)
 
-q | Ingr
---- | ---
-5 ts | cumin
-2.5 ts | toasted sesame seeds
-1 ts | fennel seed
-1 ts | chili
-1 ts | salt
-.5 ts | MSG
+| q      | Ingr                 |
+|--------|----------------------|
+| 5 ts   | cumin                |
+| 2.5 ts | toasted sesame seeds |
+| 1 ts   | fennel seed          |
+| 1 ts   | chili                |
+| 1 ts   | salt                 |
+| .5 ts  | MSG                  |
 
 To prepare the cumin: Put 5 tsp of cumin seeds into a spice grinder and blitz for ~10-20 seconds til "half ground".
 

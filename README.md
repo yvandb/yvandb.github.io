@@ -24,6 +24,7 @@
 - [Porchetta](meat/porchetta.md)
 - [Pork Belly Air Fryer](meat/pork_belly_air_fryer.md)
 - [Pork Chili Verde with pressure cooker](meat/pork_chili_verde.md)
+- [Sous vide Steak](meat/sous_vide_steak.md)
 - [Turkey Porchetta sous vide](meat/turkey_porchetta.md)
 
 ## Sauce
