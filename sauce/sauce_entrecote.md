@@ -1,4 +1,4 @@
-# Sauce Entrcôte
+# Sauce Entrecôte
 
 - [Chef Michel](https://www.youtube.com/watch?v=BVKRGtMVrss)
 - [AToute](https://www.atoute.org/n/Recette-de-la-sauce-entrecote.html)

@@ -84,6 +84,7 @@
 - [Tiramisu](baking/tiramisu.md)
 - [Vanilla soufflé](baking/vanilla_souffle.md)
 - Wafels
+    * [Beslagwafels](baking/beslagwafels.md) 
     * [Luikse Wafel](baking/luikse_wafel.md)
     * [Brusselse Wafel](baking/brusselse_wafel.md)
     * [Waffles, Hong Kong egg cake](baking/hong_kong_waffles_egg_cake.md)
