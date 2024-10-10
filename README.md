@@ -8,8 +8,10 @@
 - [Cornbread](vegetables/cornbread.md)
 - [Crispy Potatoes](vegetables/crispy_potatoes.md)
 - [Indian Carrot Salad](vegetables/indian_carrot_salad.md)
+- [Marocan Carrot Salad](vegetables/moroccan_carrot_salad.md)
 - [Pana cotta of tofu with tomato confit](vegetables/pana_cotta_of_tofu_with_tomato_confit.md)
 - [Ratatouille](vegetables/ratatouille.md)
+- [Tomatoes in the oven](vegetables/tomatoes_in_the_oven.md)
 
 ## Fish
 - [Korean Ansjovis](fish/korean_ansjovis.md)
@@ -20,6 +22,7 @@
 - [Birria](meat/birria.md)
 - [Chicken wings with air fryer](meat/chicken_wings_air_fryer.md)
 - [Chinese Cumin Mix](meat/chinese_cumin_mix.md)
+- [Chipotle dry rub](meat/chipotle_dry_rub.md)
 - [Gigot d'Agneau](meat/gigot_dagneau.md)
 - [Porchetta](meat/porchetta.md)
 - [Pork Belly Air Fryer](meat/pork_belly_air_fryer.md)
