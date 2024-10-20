@@ -64,6 +64,7 @@
 
 ## Baking
 - [Apple cake Invisible](baking/apple_cake_invisible.md)
+- [Austrian Nut Cookies or Pecan Walnut Butter Cookies](baking/austrian_nut_cookies.md)
 - [Banana bread](baking/banana_bread.md)
 - [Bûche de Noël](baking/buche_de_noel.md)
 - [Cheese Soufflé](baking/cheese_souffle.md)
