@@ -14,26 +14,30 @@
 - [Tomatoes in the oven](vegetables/tomatoes_in_the_oven.md)
 
 ## Fish
+- [Bisque](fish/bisque.md)
 - [Korean Ansjovis](fish/korean_ansjovis.md)
 - [Kreeft "Henry Duvernois"](fish/kreeft_henry_duvernois.md)
 - [Oesters met champagne](fish/oesters_champagne.md)
+- [Thai Crunchy fish](fish/thai_fish.md)
 
 ## Meat
 - [Birria](meat/birria.md)
 - [Chicken wings with air fryer](meat/chicken_wings_air_fryer.md)
 - [Chinese Cumin Mix](meat/chinese_cumin_mix.md)
 - [Chipotle dry rub](meat/chipotle_dry_rub.md)
-- [Gigot d'Agneau](meat/gigot_dagneau.md)
+- [Duck Breast sous vide](meat/sous_vide_duck_breast.md)
+- [Gigot d'Agneau Lamb sous vide](meat/gigot_dagneau.md)
 - [Porchetta](meat/porchetta.md)
 - [Pork Belly Air Fryer](meat/pork_belly_air_fryer.md)
 - [Pork Chili Verde with pressure cooker](meat/pork_chili_verde.md)
-- [Sous vide Steak](meat/sous_vide_steak.md)
+- [Steak Sous vide](meat/sous_vide_steak.md)
 - [Turkey Porchetta sous vide](meat/turkey_porchetta.md)
 
 ## Sauce
 - [Bigarate](sauce/bigarate.md)
+- [Cilantro Lime vinaigrette from Cheesecake Factory](sauce/cilantro_lime.md)
 - [Sauce Entrecôte](sauce/sauce_entrecote.md)
-- [legal sea foods sesame chili vinaigrette](sauce/sesame_chili.md)
+- [Sesame Chili vinaigrette from legal sea foods](sauce/sesame_chili.md)
 - [Thai vinaigrette](sauce/thai_vinaigrette.md)
 
 ## Dish
