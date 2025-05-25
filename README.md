@@ -39,6 +39,7 @@
 - [Sauce Entrecôte](sauce/sauce_entrecote.md)
 - [Sesame Chili vinaigrette from legal sea foods](sauce/sesame_chili.md)
 - [Thai vinaigrette](sauce/thai_vinaigrette.md)
+- [Yuzu Soy vinaigrette](sauce/yuzu_soy.md)
 
 ## Dish
 - [Chou Farci](dish/chou_farci.md)
@@ -80,6 +81,7 @@
 - [Lady Fingers](baking/lady_fingers.md)
 - [Lemon Filling](baking/lemon_filling.md)
 - [Méringue Disfrutar](baking/meringue_disfrutar.md)
+- [Mochi Red Bean Butter Cake](baking/mochi_red_bean.md)
 - [Oatmeal Raisin cookie](baking/oatmeal_raisin_cookie.md)
 - [Pasteurized Eggs](baking/pasteurized_eggs.md)
 - [Pâte Sablée](baking/pate_sablee.md)
