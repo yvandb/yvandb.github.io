@@ -1,8 +1,8 @@
 # Mochi Red Bean Butter Cake
 
-[Korean Red Bean Mochi Cake](https://www.mjandhungryman.com/korean-red-bean-mochi-cake/)
-[Red Bean Mochi Bars](https://www.chewoutloud.com/red-bean-mochi-bars/)
-[Butter Mochi Cupcakes](https://zhangcatherine.com/butter-mochi-cupcakes/)
+- [Korean Red Bean Mochi Cake](https://www.mjandhungryman.com/korean-red-bean-mochi-cake/)
+- [Red Bean Mochi Bars](https://www.chewoutloud.com/red-bean-mochi-bars/)
+- [Butter Mochi Cupcakes](https://zhangcatherine.com/butter-mochi-cupcakes/)
 
 
 Quantity | Ingredient
