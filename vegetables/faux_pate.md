@@ -23,6 +23,7 @@ spme | butter
 2 tbsp | olive oil
 
 ## To start
+
 - Heat 2 tbsp of olive oil in a frying pan
 - Roughly chop the shallot and add to the pan
 - Add a pinch of salt and cook the onions until they are translucent
@@ -31,11 +32,13 @@ spme | butter
 - Add the rosemary, thyme, sage and cognac
 
 ## Blend the cooked ingredients
+
 - Add the contents of the frying pan to a food processor along with the lentils, walnuts and soy sauce
 - Pulse the mixture until combined then add in the beetroot puree
 - Process until almost smooth, add an extra splash of cognac if needed
 
 ## To serve
+
 - Transfer the mixture to a jar, adding on a thin layer of dairy-free butter to the top (optional)
 - Refrigerate for a few hours before serving
 - Best served with good quality bread

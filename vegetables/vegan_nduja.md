@@ -5,6 +5,7 @@
 - [YT short](https://www.youtube.com/shorts/yE72RXdP71g)
 
 ## 'NDuja Paste
+
 q | Ingredient
 === | ===
 70g | sun-dried tomatoes in oil, drained + 2 tbsp of it's oil
@@ -16,13 +17,12 @@ q | Ingredient
 1 handful | stalks of fresh basil
 some | salt
 
-##'Nduja Sauce
+## 'Nduja Sauce
 
-Ingredient
-===
+
 - 'Nduja paste
 - can of whole tomatoes
-= some fresh basil
+- some fresh basil
 - parmesan
 
 

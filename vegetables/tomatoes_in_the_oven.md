@@ -1,6 +1,7 @@
 # Tomatoes in the oven
 
 ## Steps
+
 - ⁠cut tomatoes in half
 - ⁠⁠salt them
 - ⁠⁠optional: put some minced garlic on top of them
