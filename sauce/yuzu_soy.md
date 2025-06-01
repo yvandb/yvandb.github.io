@@ -1,8 +1,6 @@
 # Yuzu Soy
 
-https://www.youtube.com/shorts/ifaKe1WLhD0
-
-Recipes for Yuzu Soy.
+[Recipes for Yuzu Soy](https://www.youtube.com/shorts/ifaKe1WLhD0)
 
 q | Ingredient
 === | ===

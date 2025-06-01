@@ -1,7 +1,9 @@
 # Mochi Red Bean Butter Cake
 
 - [Korean Red Bean Mochi Cake](https://www.mjandhungryman.com/korean-red-bean-mochi-cake/)
+
 - [Red Bean Mochi Bars](https://www.chewoutloud.com/red-bean-mochi-bars/)
+
 - [Butter Mochi Cupcakes](https://zhangcatherine.com/butter-mochi-cupcakes/)
 
 
@@ -17,6 +19,7 @@ Quantity | Ingredient
 1 can, 18oz. | sweetened red bean paste
 
 Instructions 
+===
 - Preheat oven to 350F.
 - Mix all the ingredients in a large bowl and whisk until thoroughly combined.
 - Pour into a greased 9x13 pan.

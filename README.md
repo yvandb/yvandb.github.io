@@ -8,11 +8,13 @@
 - [Cornbread](vegetables/cornbread.md)
 - [Crispy Potatoes](vegetables/crispy_potatoes.md)
 - [Indian Carrot Salad](vegetables/indian_carrot_salad.md)
+- [Faux Paté](vegetables/faux_pate.md)
 - [Korean Cucumber Salad (Oi Muchim)](vegetables/korean_cucumber_salad.md)
 - [Morocan Carrot Salad](vegetables/moroccan_carrot_salad.md)
 - [Pana cotta of tofu with tomato confit](vegetables/pana_cotta_of_tofu_with_tomato_confit.md)
 - [Ratatouille](vegetables/ratatouille.md)
 - [Tomatoes in the oven](vegetables/tomatoes_in_the_oven.md)
+- [Vegan 'Nduja](vegetables/vegan_nduja.md)
 
 ## Fish
 - [Bisque](fish/bisque.md)
