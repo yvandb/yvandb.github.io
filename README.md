@@ -47,6 +47,7 @@
 ## Dish
 - [Chou Farci](dish/chou_farci.md)
 - [Dumpling Pork Daikon](dish/dumpling_pork_daikon.md)
+- [Orzo with red beets](dish/orzo_red_beets.md)
 - [Scallion Pancake](dish/scallion_pancake.md)
 - [Scotch Egg](dish/scotch_egg.md)
 - [Tarte Tatin de Tomates](dish/tarte_tatin_de_tomates.md)

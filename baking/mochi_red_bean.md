@@ -56,3 +56,9 @@ Instructions
 ## 2025-05
 - ok but not spectacular
 - mochi was not chewy enough because too much red bean
+
+## 2025-06-08
+- made without red bean
+- stuck to the wax paper
+- very brown looking, maybe a bit too long
+- not that tasty. needed more sugar
