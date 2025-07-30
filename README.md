@@ -7,6 +7,7 @@
 ## Vegetables
 - [Cornbread](vegetables/cornbread.md)
 - [Crispy Potatoes](vegetables/crispy_potatoes.md)
+- [Eggs](vegetables/eggs.md)
 - [Indian Carrot Salad](vegetables/indian_carrot_salad.md)
 - [Faux Paté](vegetables/faux_pate.md)
 - [Korean Cucumber Salad (Oi Muchim)](vegetables/korean_cucumber_salad.md)
@@ -18,6 +19,7 @@
 
 ## Fish
 - [Bisque](fish/bisque.md)
+- [Escabeche](fish/escabeche.md)
 - [Korean Ansjovis](fish/korean_ansjovis.md)
 - [Kreeft "Henry Duvernois"](fish/kreeft_henry_duvernois.md)
 - [Oesters met champagne](fish/oesters_champagne.md)
@@ -51,6 +53,7 @@
 - [Scallion Pancake](dish/scallion_pancake.md)
 - [Scotch Egg](dish/scotch_egg.md)
 - [Tarte Tatin de Tomates](dish/tarte_tatin_de_tomates.md)
+- [Tofu with Peanut Sauce](dish/tofu_peanut.md)
 
 ## Bread
 - [Baguettes](bread/baguette.md)
