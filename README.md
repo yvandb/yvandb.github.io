@@ -23,6 +23,7 @@
 - [Korean Ansjovis](fish/korean_ansjovis.md)
 - [Kreeft "Henry Duvernois"](fish/kreeft_henry_duvernois.md)
 - [Oesters met champagne](fish/oesters_champagne.md)
+- [Salmon Sous Vide](fish/salmon_sous_vide.md)
 - [Thai Crunchy fish](fish/thai_fish.md)
 
 ## Meat
