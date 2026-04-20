@@ -1,10 +1,10 @@
 # Cornbread
 
 - [Eats well with others](https://joanne-eatswellwithothers.com/2020/04/cornbread-cheddar-feta-jalapeno.html)
-- [All Recipes] (https://www.youtube.com/watch?v=kHszPufdHbQ)
+- [All Recipes](https://www.youtube.com/watch?v=kHszPufdHbQ)
 
 Q | Ingr
-=== | ===
+--- | ---
 1 cup | melted butter
 1 cup | sugar
 4 | eggs
@@ -22,7 +22,7 @@ Q | Ingr
 [Bitchy woman](https://www.youtube.com/watch?v=X-3YwhbBEuE)
 
 Q | Ingr
-=== | ===
+--- | ---
 1.5 cup | masa flour
 .5 cup | AP flour
 1 teaspoon | salt
@@ -37,7 +37,7 @@ Q | Ingr
 [Chef John](https://foodwishes.blogspot.com/2018/08/cast-iron-cornbread-frugal-fabulous.html)
 
 Q | Ingr
-=== | ===
+--- | ---
 1/2 cup (1 stick) | melted unsalted butter, divided (half for batter, half for pan)
 1 cup | cornmeal
 1 teaspoon | fine salt

@@ -8,11 +8,11 @@ RECIPE:
 
 g | Q | Ingredient
 --- | --- | ---
-7g | 2 1\4 tsp | instant yeast
-375ml | 1 1\2 cups | warm water 
+7g | 2 1/4 tsp | instant yeast
+375ml | 1 1/2 cups | warm water 
 12g | 1 tbsp | sugar
 240g | 2 cups | bread flour 
-210g | 1 3\4 cups | whole wheat flour
+210g | 1 3/4 cups | whole wheat flour
 4g | 1 tbsp | cocoa/cacao powder 
 4g | 2 tsp | instant coffee
 9g | 1 tsp | salt
@@ -22,8 +22,8 @@ g | Q | Ingredient
 
 OPTIONAL: (but not the same without)
 
-1\4 cup | cornmeal for the base of the dough once shaped before baking
-1\4 cup | oats for topping 
+1/4 cup | cornmeal for the base of the dough once shaped before baking
+1/4 cup | oats for topping 
 
 ## Steps
 - kneed

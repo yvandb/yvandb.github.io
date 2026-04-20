@@ -1,3 +1,3 @@
 # Suikerbrood
 
-(https://www.piethuysentruyt.com/suikerbrood-recept/)
+<https://www.piethuysentruyt.com/suikerbrood-recept/>

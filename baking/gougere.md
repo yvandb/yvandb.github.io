@@ -4,7 +4,7 @@
 [recipe](https://www.foodandwine.com/recipes/alain-ducasses-gougeres)
 
 q | ingredient
-=== | ===
+--- | ---
 1/2 cup | water
 1/2 cup | milk
 1 stick (4 ounces) | unsalted butter, cut into tablespoons
@@ -19,7 +19,7 @@ Large pinch  | of coarse salt
 [recipe](https://www.seriouseats.com/gougeres)
 
 q | ingredient
-=== | ===
+--- | ---
 1 cup (235g) | water or milk (see note)
 6 tablespoons (85g) | unsalted butter, cut into roughly 1/2-inch cubes
 1/2 teaspoon (2g) | Diamond Crystal kosher salt; for table salt use half as much by volume or the same weight
@@ -35,7 +35,7 @@ Egg wash | made from 1 large egg whisked with 1 tablespoon (15ml) water; or nons
 [recipe](https://brunoalbouze.com/recipe/gougere/)
 
 q | ingredient
-=== | ===
+--- | ---
 250 g | Water
 70 g | White wine
 5 g | Salt

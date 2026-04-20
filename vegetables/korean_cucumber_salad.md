@@ -4,7 +4,7 @@
 
 
 q | Ingredient
-=== | ===
+--- | ---
 1 Tbsp | gochugaru (Korean chili flakes)
 1 tsp |  rice vinegar
 1 tsp | white sugar

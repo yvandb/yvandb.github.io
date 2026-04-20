@@ -7,7 +7,7 @@
 - [Two Spoons Faux Gras](https://www.twospoons.ca/faux-gras/)
 
 q | Ingredient
-=== | ===
+--- | ---
 2 tsp | thyme
 2 tsp | sage
 2 tbsp | Cognac

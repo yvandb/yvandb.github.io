@@ -16,13 +16,11 @@
 
 [Persian Salad With Pomegranate Vinaigrette](https://subarudrive.com/articles/mediterranean-brunch-recipes)
 
-[]()
-
 
 ## Lebanese Harra Sauce
 
 Q | Ingredient
-=== | ===
+--- | ---
 2 each | Hungarian hot wax peppers, chopped, seeds intact
 1 TBS | Lemon juice
 1 TBS | White wine vinegar

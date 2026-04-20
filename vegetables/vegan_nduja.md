@@ -7,7 +7,7 @@
 ## 'NDuja Paste
 
 q | Ingredient
-=== | ===
+--- | ---
 70g | sun-dried tomatoes in oil, drained + 2 tbsp of it's oil
 1 | garlic cloves
 2 | bird's eye chillies, ends trimmed

@@ -8,7 +8,7 @@ Clear Flour bakery
 [makes about 100-120 mini cookies]
 
 Quantity      | Ingredient                       |
-============= | ================================ |
+------------- | -------------------------------- |
 225g 2 sticks | Cold butter                      |
 120g          | Powdered Sugar                   |
 1 tsp         | Vanilla Paste                    |

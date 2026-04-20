@@ -3,6 +3,7 @@
 [Thekitchn](https://www.thekitchn.com/recipe-overnight-yeasted-waffles-recipes-from-the-kitchn-199052)
 
 g | Night Before
+--- | ---
 1/2 cup | warm water
 1 tablespoon | active-dry yeast
 1/2 cup | melted butter
@@ -12,6 +13,7 @@ g | Night Before
 3 cups | all-purpose flour
 
 g | The Next Day
+--- | ---
 2 | large eggs, beaten
 1/2 teaspoon | baking soda
 

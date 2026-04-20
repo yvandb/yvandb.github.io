@@ -1,6 +1,6 @@
 # Spelt
 
-- [https://www.chainbaker.com/spelt-rolls/]
+- <https://www.chainbaker.com/spelt-rolls/>
 
 Preferment | g
 --- | ---

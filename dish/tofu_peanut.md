@@ -3,7 +3,7 @@
 [Instagram](https://www.instagram.com/p/DIjDiU8xp__/)
 
 q | gram | ingredients
-=== | === | ===
+--- | --- | ---
 3 heaping tbsp | 60g| peanut butter
 2/3 cup | 160 g| coconut milk
 2 tbsp | 40g | maple syrup

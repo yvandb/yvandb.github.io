@@ -1,6 +1,6 @@
 # Sous Vide Duck Breast
 
-[https://www.seriouseats.com/sous-vide-101-duck-breast-recipe](Sous Vide Duck Breast Serious Eats)
+[Sous Vide Duck Breast Serious Eats](https://www.seriouseats.com/sous-vide-101-duck-breast-recipe)
 
 - season well with salt & pepper
 - refrigerate uncovered overnight

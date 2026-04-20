@@ -8,7 +8,7 @@
 
 
 Quantity | Ingredient
-=== | ===
+--- | ---
 1 pack, 1 lb. | box Mochiko (or sweet rice flour)
 3/4 cup | sugar
 1 teaspoon | baking soda
@@ -30,7 +30,7 @@ Instructions
 # Butter Mochi Cupcakes
 
 q | Ingredient
-=== | ===
+--- | ---
 55 g | Unsalted butter (1/4 cup)
 170 g | Coconut milk (3/4 cup)
 240 g | Whole milk (1 cup)

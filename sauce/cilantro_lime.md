@@ -5,7 +5,7 @@
 
 
 q | Ingredients
-=== | === 
+--- | ---
 3 Tbs | garlic
 1 Tbs | fresh ginger
 1 cup | cilantro

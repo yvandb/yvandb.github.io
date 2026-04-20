@@ -1,8 +1,8 @@
 # Bisque
 
-[https://www.youtube.com/shorts/ABXBg5cFGP8](Jules short)
+[Jules short](https://www.youtube.com/shorts/ABXBg5cFGP8)
 
-[https://www.youtube.com/watch?v=ZgJShXFocdA](Jules cooking)
+[Jules cooking](https://www.youtube.com/watch?v=ZgJShXFocdA)
 
-[https://www.youtube.com/watch?v=mIfmSLptqsY](Food wishes chef John)
+[Food wishes chef John](https://www.youtube.com/watch?v=mIfmSLptqsY)
 

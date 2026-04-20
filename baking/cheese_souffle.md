@@ -4,7 +4,7 @@
 
 
 g | Ingr
-=== | ===
+--- | ---
 60g | butter
 60g | flour
 40cl 400g | milk
