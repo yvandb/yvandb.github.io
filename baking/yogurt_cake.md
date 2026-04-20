@@ -2,13 +2,13 @@
 
 From Mengian, Mike Peterson's wife
 
-Ingredients | for 12 mini cakes
---- | ---
-4 | eggs |
-¾ cup | plain yogurt
-¼ cup | cake flour
-1/3 cup | sugar
-3 Tbsp | melted butter
+imperial | g | Ingredients (for 12 mini cakes)
+--- | --- | ---
+4 | | eggs
+¾ cup | 180g | plain yogurt
+¼ cup | 30g | cake flour
+1/3 cup | 67g | sugar
+3 Tbsp | 42g | melted butter
 
 ## Steps
 1. Separate egg yolks and egg whites. Preheat oven to 300F.

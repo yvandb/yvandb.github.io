@@ -2,16 +2,16 @@
 
 Dutch_and_Belgian_cooking:
 
-Ingredient | g
---- | ---
-AP flour | 3 cups
-softened butter | 2/3 cup
-brown sugar | 1/2 cup
-baking powder | 1 tsp
-salt | 1/4 tsp
-milk | 2 tbsp
-cinnamon | 2 tsp
-nutmeg | 1/2 tsp
-ground cloves | 1/4 tsp
-slivered almonds | 1/2 cup
+Ingredient | imperial | g
+--- | --- | ---
+AP flour | 3 cups | 360g
+softened butter | 2/3 cup | 150g
+brown sugar | 1/2 cup | 107g
+baking powder | 1 tsp | 4g
+salt | 1/4 tsp | 1.5g
+milk | 2 tbsp | 30 ml
+cinnamon | 2 tsp | 5g
+nutmeg | 1/2 tsp | 1g
+ground cloves | 1/4 tsp | 0.5g
+slivered almonds | 1/2 cup | 50g
 

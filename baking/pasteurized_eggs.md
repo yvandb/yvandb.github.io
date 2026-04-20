@@ -9,10 +9,10 @@ sous vide 135 gF for 75 mins
 
 [What I learned](https://motherwouldknow.com/what-i-learned-about-whipping-egg-whites-html/)
 
-q | ingr
---- | ---
-1 | egg
-1/4 tsp | cream of tartar
+q | g | ingr
+--- | --- | ---
+1 | | egg
+1/4 tsp | 0.75g | cream of tartar
 
 - add cream of tartar when whites are loose
 

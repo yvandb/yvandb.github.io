@@ -7,16 +7,16 @@
 - [Butter Mochi Cupcakes](https://zhangcatherine.com/butter-mochi-cupcakes/)
 
 
-Quantity | Ingredient
---- | ---
-1 pack, 1 lb. | box Mochiko (or sweet rice flour)
-3/4 cup | sugar
-1 teaspoon | baking soda
-3 | eggs
-2 1/2 cups | milk
-1/2 stick | butter, melted
-2 tsp | vanilla extract
-1 can, 18oz. | sweetened red bean paste
+Quantity | g/ml | Ingredient
+--- | --- | ---
+1 pack, 1 lb. | 454g | box Mochiko (or sweet rice flour)
+3/4 cup | 150g | sugar
+1 teaspoon | 5g | baking soda
+3 | | eggs
+2 1/2 cups | 600 ml | milk
+1/2 stick | 56g | butter, melted
+2 tsp | 10 ml | vanilla extract
+1 can, 18oz. | 510g | sweetened red bean paste
 
 Instructions 
 ===

@@ -2,21 +2,21 @@
 
 [Martha Steward](https://www.marthastewart.com/316586/red-velvet-chocolate-cake)
 
-amount | Ingredients
---- | ---
-bit | Unsalted butter, for cake pans
-2 1/2 cups | cake flour, not self-rising
-1 tsp | salt
-1/4 cup| cocoa powder
-1 1/2 cups | sugar
-1 1/2 cups| canola oil
-2 | large eggs
-1/4 cup | red food coloring
-1 tsp | pure vanilla extract
-1 cup | buttermilk
-1 1/2 tsp | baking soda
-2 tsp | white vinegar
-optional | Seven-Minute Frosting for Red Velvet Chocolate Cake
+amount | g/ml | Ingredients
+--- | --- | ---
+bit | | Unsalted butter, for cake pans
+2 1/2 cups | 300g | cake flour, not self-rising
+1 tsp | 6g | salt
+1/4 cup | 21g | cocoa powder
+1 1/2 cups | 300g | sugar
+1 1/2 cups | 327g | canola oil
+2 | | large eggs
+1/4 cup | 60 ml | red food coloring
+1 tsp | 5 ml | pure vanilla extract
+1 cup | 240 ml | buttermilk
+1 1/2 tsp | 9g | baking soda
+2 tsp | 10 ml | white vinegar
+optional | | Seven-Minute Frosting for Red Velvet Chocolate Cake
 
 ## Steps
 - Butter two 9-by-2-inch round cake pans. Sprinkle with flour, and tap out the excess

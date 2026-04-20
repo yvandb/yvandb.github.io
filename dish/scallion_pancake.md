@@ -19,12 +19,12 @@ q | ingr
 ## Roux
 
 
-q | ingr
---- | ---
-2 tbsp | all-purpose flour
-1 tsp | black pepper
-1/4 cup | vegetable oil
-Some | green onion
+q | g/ml | ingr
+--- | --- | ---
+2 tbsp | 15g | all-purpose flour
+1 tsp | 2g | black pepper
+1/4 cup | 60 ml | vegetable oil
+Some | | green onion
 
 
 - pour hot oil on rest

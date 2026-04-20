@@ -2,16 +2,16 @@
 
 [Pro Home Cooks - THE BEST Air Fryer Chicken Wing (Ranking 6 Methods)](https://www.youtube.com/watch?v=qKzF0V3ErXA)
 
-| dry mix        | q   |
-|----------------|-----|
-| garlic powder  | 1t  |
-| ginger powder  | 1t  |
-| onion powder   | 1t  |
-| cumin powder   | 1t  |
-| smoked paprika | 1t  |
-| chile powder   | 1t  |
-| black pepper   | 1t  |
-| salt           | 1tb |
+| dry mix        | q   | g   |
+|----------------|-----|-----|
+| garlic powder  | 1t  | 3g  |
+| ginger powder  | 1t  | 2g  |
+| onion powder   | 1t  | 2g  |
+| cumin powder   | 1t  | 2g  |
+| smoked paprika | 1t  | 2g  |
+| chile powder   | 1t  | 3g  |
+| black pepper   | 1t  | 2g  |
+| salt           | 1tb | 18g |
 
 ## Steps
 - coat with dry mix
