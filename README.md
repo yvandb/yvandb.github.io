@@ -92,6 +92,7 @@
 - [Mochi Red Bean Butter Cake](baking/mochi_red_bean.md)
 - [Oatmeal Raisin cookie](baking/oatmeal_raisin_cookie.md)
 - [Pasteurized Eggs](baking/pasteurized_eggs.md)
+- [Pear Bourdaloue](baking/pear_bourdaloue.md)
 - [Pâte Sablée](baking/pate_sablee.md)
 - [Pâte Sucrée](baking/pate_sucree.md)
 - [Sandies](baking/sandies.md)
