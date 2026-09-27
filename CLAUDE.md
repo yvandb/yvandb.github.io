@@ -36,6 +36,10 @@ yvandb.github.io/
   raw/               # captured sources, verbatim. committed, NOT indexed in README
     youtube/
     web/
+  docs/
+    TODO.md          # open items, with a status line each
+    log.md           # what changed, current month only
+    log/YYYY-MM.md   # archived months
   .claude/skills/    # fetch-recipe-source, add-recipe
 ```
 
@@ -144,6 +148,25 @@ stays one click away and nothing needs re-fetching.
 - **Dashes in a capture stay.** They are the author's words, which is the one exception to the rule
   below.
 
+## TODO and log
+
+`docs/TODO.md` is the backlog. `docs/log.md` is the record. Neither is indexed in `README.md`.
+
+- **TODO holds three horizons:** `## Next up`, `## Planned`, `## Someday`. An item is
+  `### Title (added YYYY-MM-DD)`, a few lines of why and what it takes, then a `**Status:**` line with
+  a date. Statuses: `open`, `in progress`, `blocked`, `deferred`, `needs check`.
+- 🟥 **No Done section.** When an item is finished, delete it from TODO and append to the log.
+  `README.md` already is the list of what shipped.
+- ✅ **File it rather than dropping it.** A flagged uncertainty, an unverified conversion, a recipe
+  imported but not yet cooked, a repo chore: these go in TODO with a status, not into a chat reply
+  that scrolls away.
+- **Log entries are one per session or batch**, `## [YYYY-MM-DD] short subject` then a line per change,
+  appended at the bottom. Current month only, roll the old month into `docs/log/YYYY-MM.md` when a new
+  one starts.
+- 🟥 **Cooking a recipe is not a log entry.** That is a dated note inside the recipe file, and it is
+  Yvan's to write.
+- **Update both when you finish work here**, same commit as the work.
+
 ## Skills
 
 - **`fetch-recipe-source <url>`** captures a YouTube video or web page into `raw/`. Writes the link,
@@ -173,6 +196,6 @@ Period, comma, colon, parentheses or a plain hyphen instead. A plain `-` is fine
   number gets flagged loudly, not filled in.
 - **Write a dated note entry.**
 - **Create a category.**
-- **Index `raw/` in the README.**
+- **Index `raw/` or `docs/` in the README.**
 - **Re-fetch a source already in `raw/`.**
 - **Touch `_config.yml`, add a Gemfile, add tooling, or turn this into a project.**
