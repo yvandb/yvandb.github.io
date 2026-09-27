@@ -37,3 +37,9 @@ Cooking a recipe is not a log entry, that is a dated note inside the recipe.
   monthly log in `~/git/personal/art-of-ai/log.md`, scaled down to a cookbook.
 - Seeded TODO with the five open items standing at the time.
 - Documented both in `CLAUDE.md`.
+
+## [2026-09-27] raw/ and docs/ off the live site
+
+- Added `exclude: [raw, docs]` to `_config.yml`. Both stay in the repo and on GitHub, Pages no longer
+  builds them.
+- Updated `CLAUDE.md` to allow that one addition to `_config.yml`.

@@ -2,7 +2,8 @@
 
 Not a codebase. **Trois Etoiles** is Yvan's personal recipe library, published as a Jekyll site on
 GitHub Pages. No build, no tests, no linter, no package manager. You edit Markdown, GitHub renders it
-on push. `_config.yml` is one line (`theme: jekyll-theme-modernist`) and stays that way.
+on push. `_config.yml` is the theme plus an `exclude:` list keeping `raw/` and `docs/` off the live
+site. Nothing else goes in it.
 
 The job here is **curation, not engineering**. Import sources, distill them into terse recipes, keep
 the index honest.
@@ -142,7 +143,8 @@ Terse, telegraphic, mixed English, Dutch and French, written for one reader.
 A recipe is a lossy summary. The capture is the original, kept so the detail that did not make the cut
 stays one click away and nothing needs re-fetching.
 
-- **Committed, linked from recipes, absent from `README.md`.**
+- **Committed, linked from recipes, absent from `README.md`, excluded from the live site** by
+  `_config.yml`. Visible on GitHub only.
 - 🟥 **Immutable. Verbatim. Never summarize, trim or tidy a capture.**
 - **Dedup before fetching:** `grep -rl "<video_id>" raw/`.
 - **Dashes in a capture stay.** They are the author's words, which is the one exception to the rule
@@ -198,4 +200,5 @@ Period, comma, colon, parentheses or a plain hyphen instead. A plain `-` is fine
 - **Create a category.**
 - **Index `raw/` or `docs/` in the README.**
 - **Re-fetch a source already in `raw/`.**
-- **Touch `_config.yml`, add a Gemfile, add tooling, or turn this into a project.**
+- **Add to `_config.yml` beyond the theme and the exclude list, add a Gemfile, add tooling, or turn
+  this into a project.**
