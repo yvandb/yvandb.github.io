@@ -21,3 +21,6 @@ Cooking a recipe is not a log entry, that is a dated note inside the recipe.
 - Bake time 10-11 min taken from the chat's "max banana" column, the one matching 150 g banana. The
   final gram table states no time.
 - Rolled September into `docs/log/2026-09.md`.
+- Merged `baking/banana_oat_breakfast_biscuits.md` into `baking/belvita_soft_baked_banana_bread.md`.
+  Same chat, first version. Its amounts live on in the 2026-10-12 note, the README line is gone.
+- Dropped the TODO to verify the old file's metric. The grams now come from the source.

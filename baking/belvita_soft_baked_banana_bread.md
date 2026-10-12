@@ -2,7 +2,7 @@
 
 [Gemini chat](https://gemini.google.com/app/3a917586f939c956) · [capture](../raw/web/2026-10-12-belvita-soft-baked-banana-bread-gemini.md)
 
-More banana, sweeter and moister rework of [Banana Oat Breakfast Biscuits](banana_oat_breakfast_biscuits.md). 10-12 biscuits.
+belVita Soft Baked Banana Bread copycat. 10-12 biscuits.
 
 g | q | ingredient
 --- | --- | ---
@@ -26,3 +26,9 @@ g | q | ingredient
 - 10-11 min. Pull as soon as edges set, centers soft.
 - 5 min on the sheet, then the rack.
 - Airtight 5 days. Frozen, wrapped individually, 2 months.
+
+## 2026-10-12
+- Batch 1 on the chat's first recipe: 1 medium banana (~1/3 cup), 3 tbsp brown sugar, 3 tbsp butter, 1 tbsp honey, 12-14 min.
+- Good, but banana too faint, not sweet enough, too dry.
+- Did not spread at all, so room for more wet.
+- Batch 2 is the table above.

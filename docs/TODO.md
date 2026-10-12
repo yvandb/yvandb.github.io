@@ -12,27 +12,18 @@ what shipped.
 
 ## Next up
 
-### Cook the belvita soft baked banana bread (added 2026-10-12)
-`baking/belvita_soft_baked_banana_bread.md` is the reworked gram version, not cooked yet. The 10-11
-min bake comes from the chat's "max banana" column, not from the final gram table. First cook confirms
-the time and whether 150 g banana still shapes without spreading.
+### Cook batch 2 of the belvita soft baked banana bread (added 2026-10-12)
+`baking/belvita_soft_baked_banana_bread.md` is the reworked gram version, batch 2 baking 2026-10-12.
+The 10-11 min bake comes from the chat's "max banana" column, not from the final gram table. This cook
+confirms the time and whether 150 g banana still shapes without spreading.
 
-**Status:** open, 2026-10-12
+**Status:** in progress, 2026-10-12
 
 ### Cook the pear bourdaloue (added 2026-09-27)
 `baking/pear_bourdaloue.md` is imported but untested. First cook confirms the frangipane ratio and
 whether 175C fan for 40 min is right in this oven. Note goes under a dated heading in the recipe.
 
 **Status:** open, 2026-09-27
-
-### Verify the metric on the banana oat biscuits (added 2026-09-27)
-`baking/banana_oat_breakfast_biscuits.md` carries a `gr` column that is standard conversion, not from
-the source. The source was cups only. Oats at 90g/cup and whole wheat at 90g per 3/4 cup are the two
-worth weighing once. The 2026-10-12 Gemini capture
-(`raw/web/2026-10-12-belvita-soft-baked-banana-bread-gemini.md`) says 90 g oats and 95 g whole wheat,
-but that is the same chat converting, not a scale.
-
-**Status:** needs check, 2026-10-12
 
 ### Commit or drop dish/haianese_chicken.md (added 2026-09-27)
 Staged and modified since before 2026-09-14, never committed, never indexed in `README.md`. Either

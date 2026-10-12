@@ -79,7 +79,6 @@
 - [Apple cake Invisible](baking/apple_cake_invisible.md)
 - [Austrian Nut Cookies or Pecan Walnut Butter Cookies](baking/austrian_nut_cookies.md)
 - [Banana bread](baking/banana_bread.md)
-- [Banana Oat Breakfast Biscuits](baking/banana_oat_breakfast_biscuits.md)
 - [BelVita Soft Baked Banana Bread](baking/belvita_soft_baked_banana_bread.md)
 - [Bûche de Noël](baking/buche_de_noel.md)
 - [Cheese Soufflé](baking/cheese_souffle.md)
