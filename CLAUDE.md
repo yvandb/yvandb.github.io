@@ -180,8 +180,7 @@ stays one click away and nothing needs re-fetching.
 
 ## Git
 
-Personal repo, so `main` is the target. Commit finished work without being asked. Do not push unless
-asked. Account `yvandb`, remote `git@github-personal:yvandb/yvandb.github.io.git`.
+Per `~/.claude/CLAUDE.md`: everything on `master`, no branches, no PRs. Push regularly, not after every commit. A push publishes the live site. Account `yvandb`, remote `git@github-personal:yvandb/yvandb.github.io.git`.
 
 ## Dashes
 
