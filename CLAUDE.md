@@ -180,14 +180,12 @@ stays one click away and nothing needs re-fetching.
 
 ## Git
 
-Per `~/.claude/CLAUDE.md`: everything on `master`, no branches, no PRs. Push regularly, not after every commit. A push publishes the live site. Account `yvandb`, remote `git@github-personal:yvandb/yvandb.github.io.git`.
+Git, the account and the remote follow `~/.claude/CLAUDE.md`. What's specific here: a push publishes the live site.
 
 ## Dashes
 
-🟥 **Never emit an em dash or an en dash.** Not in a recipe, not in a commit message, not in a reply.
-Period, comma, colon, parentheses or a plain hyphen instead. A plain `-` is fine, `2-3 mm` is fine.
+The rule itself is global (`~/.claude/CLAUDE.md`). Captures in `raw/` keep theirs, see **raw/ is the evidence**. What this repo adds:
 
-- ✅ **Verbatim source text keeps its dashes.** Captures in `raw/` are verbatim.
 - 🟥 **Check with `grep -nE '—|–|&mdash;|&ndash;' <files you wrote>` before finishing.** Must come back
   empty. Never `grep -rn $'—\|–'`, zsh eats the backslash and it silently passes every time.
 
