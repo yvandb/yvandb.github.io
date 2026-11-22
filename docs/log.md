@@ -36,3 +36,13 @@ Cooking a recipe is not a log entry, that is a dated note inside the recipe.
 - `_includes/head-custom.html` puts `<meta name="robots" content="noindex, nofollow">` in every page
   the modernist theme renders. Same tag added to `mama.html` by hand.
 - No `robots.txt` on purpose: blocking the crawl stops search engines from seeing the noindex.
+
+## [2026-11-22] index check
+
+- Checked `README.md` against every recipe file: no broken links, no duplicates.
+- Indexed 4 files that had no bullet: `bread/baguette2.md` (under Baguettes), `bread/shokupan.md`
+  (under the milk breads), `bread/pain_au_levain_3_flours.md`, `bread/suikerbrood.md`.
+- Re-sorted Online sites, Vegetables, Bread, Baking and the Wafels sub-list. Every section is
+  alphabetical now.
+- Label typos: Morocan, Bahn Mi, Martha Steward.
+- `CLAUDE.md`: dropped the "ordering is already imperfect" note, added the nesting and label rules.

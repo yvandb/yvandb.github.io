@@ -37,7 +37,7 @@ yvandb.github.io/
   sauce/             #  6   sauces, vinaigrettes, dressings
   dish/              #  8   composed mains fitting none of the above, savory tarts, pasta, dumplings
   bread/             # 21   yeasted breads, pizza dough, sandwich breads
-  baking/            # 32   all sweets. pastry, cookies, cakes, tarts, waffles, custards
+  baking/            # 34   all sweets. pastry, cookies, cakes, tarts, waffles, custards
   resto/             #  1   restaurant notes, not recipes
   raw/               # captured sources, verbatim. committed, NOT indexed in README
     youtube/
@@ -138,9 +138,10 @@ Terse, telegraphic, mixed English, Dutch and French, written for one reader.
 - **Add `- [Title](category/filename.md)`** to the matching section on every new recipe.
 - **Sections are alphabetical**, case-insensitive, accents and leading articles ignored. Read the
   neighbours and insert in place. Never append blindly.
-- 🟨 **Ordering is already imperfect.** `Pâte Sablée` sits after `Pasteurized Eggs`, and Baking has a
-  nested `Wafels` sub-list plus `Yogurt cake` orphaned below it. Insert sensibly, do not re-sort the
-  world unless asked.
+- **Variants nest under their parent** as `    * [Title](path)`: `Wafels`, the milk breads, `Baguettes`.
+  Sub-lists are alphabetical too.
+- **The README label is not the file's H1.** It's a hand-written index label, often with extra search
+  words (`Gigot d'Agneau Lamb sous vide`). Don't sync one to the other.
 - 🟥 **Never index anything under `raw/`.**
 
 ## raw/ is the evidence
