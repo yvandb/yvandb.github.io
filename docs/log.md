@@ -24,3 +24,9 @@ Cooking a recipe is not a log entry, that is a dated note inside the recipe.
   `dish/haianese_chicken.md`, title spelling fixed.
 - Fixed the source link, url and text were swapped. Dropped an empty `[]()` line.
 - Indexed in `README.md`. Dropped its TODO item.
+
+## [2026-11-22] what a recipe needs
+
+- `CLAUDE.md`: the core is ingredient balance plus cooking stages. Serving details (ramekin size,
+  chill time, portions) are not gaps, never flagged.
+- Pudding TODO trimmed to the one open question: does 700 g milk set.

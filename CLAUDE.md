@@ -19,6 +19,10 @@ One person. He cooks constantly and has done for decades.
   thicknesses, doneness cues, the one unobvious move. That is the entire value of the file.
 - **A recipe is a reminder, not an instruction manual.** He has either cooked it or watched the source.
   Write for the second cook, not the first.
+- 🟥 **The core is the balance of the ingredients.** The amounts, and for sauces and cooked things the
+  stages it goes through. That is what a gap looks like.
+- 🟥 **Serving details are not gaps.** Ramekin size, chill time before eating, portions, plating. "You
+  do it, you eat it when you want it." Never flag them, never put them in TODO.
 
 ## Layout
 
