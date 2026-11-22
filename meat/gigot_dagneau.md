@@ -36,3 +36,4 @@
 
 ## 2026-11-19
 - 6 lbs 135 gF for 5 hours, office Thanksgiving party -> won first prize, $50 gift card
+- well seasoned, cuisson right
