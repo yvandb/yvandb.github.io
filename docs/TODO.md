@@ -32,12 +32,6 @@ whether 175C fan for 40 min is right in this oven. Note goes under a dated headi
 
 **Status:** open, 2026-09-27
 
-### Commit or drop dish/haianese_chicken.md (added 2026-09-27)
-Staged and modified since before 2026-09-14, never committed, never indexed in `README.md`. Either
-finish it and add the bullet, or discard it.
-
-**Status:** open, 2026-09-27
-
 ## Planned
 
 ### Exercise the web path of fetch-recipe-source (added 2026-09-27)

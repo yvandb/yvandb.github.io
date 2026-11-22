@@ -50,6 +50,7 @@
 ## Dish
 - [Chou Farci](dish/chou_farci.md)
 - [Dumpling Pork Daikon](dish/dumpling_pork_daikon.md)
+- [Hainanese Chicken](dish/hainanese_chicken.md)
 - [Orzo with red beets](dish/orzo_red_beets.md)
 - [Scallion Pancake](dish/scallion_pancake.md)
 - [Scotch Egg](dish/scotch_egg.md)
