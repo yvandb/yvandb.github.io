@@ -12,6 +12,13 @@ what shipped.
 
 ## Next up
 
+### Cook the ultra-soft vanilla pudding (added 2026-11-22)
+`baking/vanilla_pudding.md` is imported but untested. The source gives amounts and the 60 s boil only:
+no order for yolks, butter and vanilla, no chill time, no ramekin size. First cook settles those and
+whether 700 g milk still sets. The 600 g version it mentions is not in the repo.
+
+**Status:** open, 2026-11-22
+
 ### Cook batch 2 of the belvita soft baked banana bread (added 2026-10-12)
 `baking/belvita_soft_baked_banana_bread.md` is the reworked gram version, batch 2 baking 2026-10-12.
 The 10-11 min bake comes from the chat's "max banana" column, not from the final gram table. This cook

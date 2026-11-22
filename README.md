@@ -102,6 +102,7 @@
 - [Tarte Tatin](baking/tarte_tatin.md)
 - [Thumbprint cookies](baking/thumbprint_cookies.md)
 - [Tiramisu](baking/tiramisu.md)
+- [Vanilla Pudding, ultra-soft](baking/vanilla_pudding.md)
 - [Vanilla soufflé](baking/vanilla_souffle.md)
 - Wafels
     * [Beslagwafels](baking/beslagwafels.md) 
