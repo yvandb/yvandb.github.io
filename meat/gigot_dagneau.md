@@ -33,3 +33,6 @@
 
 ## 2024-11-29
 - used 1.5% salt and bit of msg, was correctly seasoned, maybe a bit too much 
+
+## 2026-11-19
+- 6 lbs 135 gF for 5 hours, office Thanksgiving party -> won first prize, $50 gift card
