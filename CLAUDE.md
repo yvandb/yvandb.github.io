@@ -30,6 +30,7 @@ One person. He cooks constantly and has done for decades.
 yvandb.github.io/
   README.md          # the index. landing page and source of truth for what is published
   mama.html          # standalone page, not a recipe, not indexed
+  _includes/head-custom.html  # noindex meta, the theme puts it in every page's <head>
   vegetables/        # 11   veg-forward dishes, salads, sides that are not mains
   fish/              #  7   fish and seafood mains
   meat/              # 11   meat mains, rubs

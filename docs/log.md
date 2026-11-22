@@ -30,3 +30,9 @@ Cooking a recipe is not a log entry, that is a dated note inside the recipe.
 - `CLAUDE.md`: the core is ingredient balance plus cooking stages. Serving details (ramekin size,
   chill time, portions) are not gaps, never flagged.
 - Pudding TODO trimmed to the one open question: does 700 g milk set.
+
+## [2026-11-22] noindex
+
+- `_includes/head-custom.html` puts `<meta name="robots" content="noindex, nofollow">` in every page
+  the modernist theme renders. Same tag added to `mama.html` by hand.
+- No `robots.txt` on purpose: blocking the crawl stops search engines from seeing the noindex.
